@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lax-whiteboard/static/css/main.f855e6bc.css",
+    "main.js": "/lax-whiteboard/static/js/main.e8f2152e.js",
+    "static/js/453.741ff721.chunk.js": "/lax-whiteboard/static/js/453.741ff721.chunk.js",
+    "static/media/logo.svg": "/lax-whiteboard/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lax-whiteboard/index.html",
+    "main.f855e6bc.css.map": "/lax-whiteboard/static/css/main.f855e6bc.css.map",
+    "main.e8f2152e.js.map": "/lax-whiteboard/static/js/main.e8f2152e.js.map",
+    "453.741ff721.chunk.js.map": "/lax-whiteboard/static/js/453.741ff721.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.e8f2152e.js"
+  ]
+}
