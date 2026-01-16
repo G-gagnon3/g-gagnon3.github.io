@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/lax-whiteboard/static/css/main.e6c13ad2.css",
-    "main.js": "/lax-whiteboard/static/js/main.fcd8307a.js",
-    "static/js/453.741ff721.chunk.js": "/lax-whiteboard/static/js/453.741ff721.chunk.js",
-    "index.html": "/lax-whiteboard/index.html",
-    "main.e6c13ad2.css.map": "/lax-whiteboard/static/css/main.e6c13ad2.css.map",
-    "main.fcd8307a.js.map": "/lax-whiteboard/static/js/main.fcd8307a.js.map",
-    "453.741ff721.chunk.js.map": "/lax-whiteboard/static/js/453.741ff721.chunk.js.map"
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.bec3f5ea.js",
+    "static/js/453.741ff721.chunk.js": "/static/js/453.741ff721.chunk.js",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.bec3f5ea.js.map": "/static/js/main.bec3f5ea.js.map",
+    "453.741ff721.chunk.js.map": "/static/js/453.741ff721.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.fcd8307a.js"
+    "static/js/main.bec3f5ea.js"
   ]
 }
